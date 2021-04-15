@@ -19,16 +19,23 @@ Dari segi ukuran, WebM memiliki ukuran yang lebih kecil daripada MP4. Oleh karen
 
 Untuk perbedaan lebih lengkapnya silahkan lihat tabel di bawah ini.
 
+
+***
+
+
 <div class="table-container">
   <table>
     <tr><th> </th><th>WebM</th><th>MP4</th>
     <tr><td>Pengembang (Developer)</td><td>Google Inc</td><td>International Organization for Standardization</td>
-    <tr><td>Ektensi File</td><td>Format video : Webm \nFormat Audio: Webm, Opus</td><td>Format video: MP4 (MPEG-4) \nFormat audio: MP4a</td>
-    <tr><td>Perangkat dan Media Player yang didukung</td><td>-Browser Yang support HTML5 (kalau sekarang semua browser sudah support) \n-untuk perangkat jadul perlu menginstal aplikasi tambahan seperti Vlc</td><td>Semua browser dan perangkat (baik jadul maupun baru)</td>
+    <tr><td>Ektensi File</td><td>Format video : Webm Format Audio: Webm, Opus</td><td>Format video: MP4 (MPEG-4) Format audio: MP4a</td>
+    <tr><td>Perangkat dan Media Player yang didukung</td><td>-Browser Yang support HTML5 (kalau sekarang semua browser sudah support) -untuk perangkat jadul perlu menginstal aplikasi tambahan seperti Vlc</td><td>Semua browser dan perangkat (baik jadul maupun baru)</td>
     <tr><td>Codec yang didukung</td><td>VP9, VP8, and AV1</td><td>H.265/HEVC, H.264/AVC, MPEG-4 Part 2, MPEG-2, and MPEG-1</td>
     <tr><td>Source Code</td><td>Open Source (Terbuka)</td><td>Closed Source (Proprietary)</td>
   </table>
 </div>
+
+***
+
 
 ## Kesimpulan 
 
