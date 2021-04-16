@@ -6,11 +6,15 @@ image : /img/images/webm-vs-mp4.jpg
 tags  : [Info]
 ---
 
+Apakah kalian suka nonton Youtube? atau mungkin suka edit video?. Jika iya mungkin kalian pernah melihat format video WebM atau MP4 pastinya. Format video yang paling umum dan yang sering kita ketahui dari yang lain adalah MP4. Namun, ada juga lo format video lain yang juga memiliki karakteristik dan keunggulan sendiri contohnya WebM. Sebenarnya ada banyak sekali format file video selain kedua format tersebut tapi saya bahas saja Format file video MP4 dan WebM biar gak terlalu panjang.
+
 WebM adalah format file Video dan Audio yang khusus dibuat untuk streaming Internet dan digunakan dalam video HTML5 dan elemen audio HTML5. WebM adalah format file video yang bersifat Open Source yang dikembangkan oleh Google yang dikompresi dengan codec video VP8 atau VP9 dan aliran audio yang dikompresi dengan codec audio Vorbis atau Opus dengan Struktur file WebM didasarkan pada kontainer Matroska. Sehingga memiliki ukuran dan optimalisasi video yang lebih baik.
 
 MP4, disingkat istilah untuk MPEG-4 Bagian 14, juga merupakan Format file video diperkenalkan pada akhir 1998 dan ditunjuk standar untuk sekelompok format pengkodean audio dan video dan teknologi terkait yang disepakati oleh ISO /IEC Moving Picture Experts Group (MPEG) (ISO/IEC JTC1/SC29/WG11) di bawah standar formal ISO/IEC 14496 – Pengkodean objek audio-visual. Penggunaan MPEG-4 termasuk kompresi data AV untuk internet (Video online) dan distribusi CD, suara (telepon, videophone) dan aplikasi televisi siaran. Standar MPEG-4 dikembangkan oleh kelompok yang dipimpin oleh Touradj Ebrahimi
 
 Jika kalian suka mendownload video Youtube, pada saat memilih kualitas video kalian pasti sering sekali nih nemuin video format WebM. iya kan? :D
+
+![]({{site.baseurl}}/img/images/ytvid.png)
 
 
 ## Perbedaan Format File WebM vs MP4
@@ -19,23 +23,19 @@ Dari segi ukuran, WebM memiliki ukuran yang lebih kecil daripada MP4. Oleh karen
 
 Untuk perbedaan lebih lengkapnya silahkan lihat tabel di bawah ini.
 
-
 ***
 
 
-<div class="table-container">
-  <table>
-    <tr><th> </th><th>WebM</th><th>MP4</th>
-    <tr><td>Pengembang (Developer)</td><td>Google Inc</td><td>International Organization for Standardization</td>
-    <tr><td>Ektensi File</td><td>Format video : Webm Format Audio: Webm, Opus</td><td>Format video: MP4 (MPEG-4) Format audio: MP4a</td>
-    <tr><td>Perangkat dan Media Player yang didukung</td><td>-Browser Yang support HTML5 (kalau sekarang semua browser sudah support) -untuk perangkat jadul perlu menginstal aplikasi tambahan seperti Vlc</td><td>Semua browser dan perangkat (baik jadul maupun baru)</td>
-    <tr><td>Codec yang didukung</td><td>VP9, VP8, and AV1</td><td>H.265/HEVC, H.264/AVC, MPEG-4 Part 2, MPEG-2, and MPEG-1</td>
-    <tr><td>Source Code</td><td>Open Source (Terbuka)</td><td>Closed Source (Proprietary)</td>
-  </table>
-</div>
+|                                          | WebM                                                                                                                                                | MP4                                                  
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| Pengembang (Developer)                   | Google Inc                                                                                                                                          | International Organization for Standardization       	|
+| Ekstensi File                             | Format video : Webm  Format Audio: Webm, Opus                                                                                                       | Format video: MP4 (MPEG-4)  Format audio: MP4a       	|
+| Perangkat dan Media Player yang didukung | - Browser  Yang support HTML5 (kalau sekarang semua browser sudah support)  - untuk  perangkat jadul perlu menginstal aplikasi tambahan seperti Vlc | Semua browser dan perangkat (baik jadul maupun baru) 	|
+| Codec yang didukung 					   | VP9, VP8, and AV1     																																 | H.265/HEVC, H.264/AVC, MPEG-4 Part 2, MPEG-2, and MPEG-1 |
+| Source Code        					   | Open Source (Terbuka)																																 | Closed Source (Proprietary)                              |
+
 
 ***
-
 
 ## Kesimpulan 
 

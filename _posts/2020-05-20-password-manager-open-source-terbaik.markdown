@@ -2,7 +2,7 @@
 layout: post
 title:  3 Password Manager Open Source Terbaik
 date:   2020-05-20 12:06:55 +0300
-image:  password.jpg
+image:  /img/images/password.jpg
 tags:   [Tutorial, Lifehacks]
 ---
 Password adalah data yang sangat penting untuk menjaga keamanan akun kita, password merupakan kata yang bersifat rahasia yang hanya diketahui oleh pembuat password tersebut untuk memverifikasi sebuah akun.
@@ -23,7 +23,7 @@ Karena open source mengizinkan kita untuk bisa melihat kode sumber yang mereka b
 
 ### 1. [KeepassXC](https://keepassxc.org)
 
-![]({{site.baseurl}}/img/keepasXC.png)
+![]({{site.baseurl}}/img/images/keepasXC.png)
 
 KeepassXC adalah software password manager open source yang berbasis dari [Keepass](https://keepass.info) untuk menyimpan database password kita dan juga tidak memerlukan internet karena password yang kita buat tidak disimpan di cloud tetapi di tempat penyimpanan kita sendiri sehingga kita dapat mengontrol penuh dengan password yang kita buat.Database tersebut akan tersimpan dalam bentuk format .kdbx dan juga telah dienksripsi dengan password sehingga jika kita lupa password database, kita tidak dapat melihat dan mengembalikan semua password yang tersimpan
 
@@ -41,7 +41,7 @@ Source code Github : [https://github.com/keepassxreboot/keepassxc](https://githu
 
 ### 2. [Keeweb](https://keeweb.info)
 
-![]({{site.baseurl}}/img/Keeweb.png)
+![]({{site.baseurl}}/img/images/Keeweb.png)
 
 Keeweb mungkin bisa menjadi alternatif buat kalian karena keeweb kerjanya sama dengan KeepassXC tapi kalian juga bisa menyimpannya ke penyimpanan cloud seperti google drive, dan dropbox. Keebweb tersedia di Windows, Mac os, dan Linux.
 
@@ -52,7 +52,7 @@ Source code Github : [https://github.com/keeweb/keeweb](https://github.com/keewe
 
 ### 3. [Bitwarden](https://bitwarden.com)
 
-![]({{site.baseurl}}/img/bitwarden.png)
+![]({{site.baseurl}}/img/images/bitwarden.png)
 
 Bitwarden merupakan password manager open source yang populer saat ini. yang menarik dari bitwarden adalah softwarenya tersedia di hampir semua perangkat seperti Windows, Linux, android, IOS dan bahkan Add-ons browser.password yang kita buat akan tersimpan di server bitwarden, jangan khawatir walaupun password tersimpan di cloud bitwarden, password kita yang simpan telah dienkripsi end-to-end AES-256 bit encryption, salted hashing, dan PBKDF2 SHA-256.
 

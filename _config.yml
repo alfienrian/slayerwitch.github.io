@@ -18,7 +18,7 @@ title: Slayer Web
 email: theslayer@keemail.me
 description: "Web blogging sederhana yang berisi update & tips tentang teknologi informasi"
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: amroslayer.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: amroslayer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: The Slayer
   twitter: 

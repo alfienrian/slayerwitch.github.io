@@ -2,7 +2,7 @@
 layout: post
 title:  Penipuan Saldo Gratis Bot Telegram
 date:   2020-11-18 12:06:55 +0300
-image:  Post_2/dana.png
+image:  /img/images/dana.png
 tags:   [Info]
 ---
 
@@ -19,7 +19,7 @@ setelah saya selidiki ternyata trend mengeshare link bot telegram tersebut beras
 
 Kurang lebih seperti ini tampilan botnya....
 
-![]({{site.baseurl}}/img/Post_2/screenshot_36.png)
+![]({{site.baseurl}}/img/images/screenshot_36.png)
 
 ## Terus bagaimana sistem penarikan saldonya?
 
@@ -27,7 +27,7 @@ Untuk menarik saldo kalian harus bayar fee/biaya admin biar saldo bisa ditarik, 
 
 Sudah ada beberapa korban (atau mungkin sudah banyak) yang termakan karena Bot referral tersebut termasuk salah satu yang saya tampilkan di bawah ini, pada saat melakukan penarikan uang di bot telegram pelakunya langsung kabur yah... sia sia dong sudah susah-susah share ke banyak grup tapi PHP wkwkwkwkwkwk :v
 
-![]({{site.baseurl}}/img/Post_2/screenshot_33.png)
+![]({{site.baseurl}}/img/images/screenshot_33.png)
 
 
 > Kalau kalian penasaran sama cerita screenshot tweet di atas kalian bisa [klik disini](https://twitter.com/beingluvyouall/status/1328324898649894912) atau bagian referensi di bawah sudah saya taruh link tweet disitu
