@@ -5,15 +5,22 @@ date:   2020-05-20 12:06:55 +0300
 image:  /img/images/password.jpg
 tags:   [Tutorial, Lifehacks]
 ---
-Password adalah data yang sangat penting untuk menjaga keamanan akun kita, password merupakan kata yang bersifat rahasia yang hanya diketahui oleh pembuat password tersebut untuk memverifikasi sebuah akun.
+> Q: Saya punya banyak akun sosmed tapi bingung nih gimana ya biar gak lupa password akun kita? saya sering lupa password akun saya karena gak bisa hafalin semua password akun. 
 
-Kita pasti pernah membuat banyak akun seperti facebook, gmail, instagram, dll. akan tetapi, setiap membuat akun terkadang membuat password yang sama dengan tujuan agar mudah diingat. kalau kita membuat password yang sama di semua akun akan menjadi masalah yang besar karena kalau password tersebut bocor maka akun kita yang lain pasti terkena dampaknya.
+> A: Jangan khawatir saya punya teknik lain dengan mudah dan praktis tanpa perlu mengingat semua passwordnya dengan menggunakan software android ataupun desktop (Komputer), baca saja artikel ini sampai habis ;)
+
+Password menjadi masalah yang mungkin hampir sering terjadi terutama ketika kita lupa password yang digunakan akun tersebut pasti akan repot kalau harus mengingat semua passwordnya. Capek juga kalau kita harus mengingat semua passwordnya, Teman saya aja malah sering mengalami kejadian tersebut malahan :v
+
+Berbicara tentang Password, Password adalah kata kunci yang sangat penting untuk menjaga keamanan akun kita, password merupakan kata yang bersifat rahasia yang hanya diketahui oleh pembuat password tersebut untuk memverifikasi sebuah akun.
+
+Kita pasti pernah membuat banyak akun seperti facebook, gmail, instagram, dll. akan tetapi, setiap membuat akun terkadang ada juga yang membuat password yang sama dengan tujuan agar mudah diingat. Tapi... masalah tersebut bikin akun gak aman. Kenapa? karena kalau kita membuat password yang sama di semua akun akan menjadi masalah yang besar karena kalau password tersebut bocor maka akun kita yang lain pasti terkena dampaknya. iya kan?
 
 Untuk menghindari hal tersebut kita harus membuat password yang sulit ditebak dan juga agar tidak lupa dengan password yang tersimpan diperlukannya password manager. **Apa itu password manager?**, Password manager adalah sebuah aplikasi yang berfungsi untuk membuat sebuah password dengan kombinasi yang rumit, komplek dan panjang tapi kamu tidak perlu mengingatnya. Karena password tersebut akan disimpan dan diatur oleh aplikasi ini. Ada banyak software dan web layanan password manager gratis di internet tapi layanan tersebut kurang menjamin karena close source (Sumber kode tertutup) yang bisa saja password kita yang tersimpan kurang terjamin keamanannya. Oleh karena itu disini saya telah memilih beberapa password manager yang aman dan juga open source(Sumber kode terbuka)
 
 ---
 
 ## Mengapa memilih yang open source?
+
 Karena open source mengizinkan kita untuk bisa melihat kode sumber yang mereka buat untuk bisa kita analisis dan juga orang lain yang paham dengan pemograman dapat membantu kesalahan code tersebut jika terjadi bugs atau error, sehingga keamanan bisa terjamin dan juga transparan
 
 ---

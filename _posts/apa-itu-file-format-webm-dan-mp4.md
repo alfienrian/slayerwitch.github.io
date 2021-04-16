@@ -29,13 +29,13 @@ Untuk perbedaan lebih lengkapnya silahkan lihat tabel di bawah ini.
 |                                          | WebM                                                                                                                                                | MP4                                                  
 |------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | Pengembang (Developer)                   | Google Inc                                                                                                                                          | International Organization for Standardization       	|
-| Ekstensi File                             | Format video : Webm  Format Audio: Webm, Opus                                                                                                       | Format video: MP4 (MPEG-4)  Format audio: MP4a       	|
-| Perangkat dan Media Player yang didukung | - Browser  Yang support HTML5 (kalau sekarang semua browser sudah support)  - untuk  perangkat jadul perlu menginstal aplikasi tambahan seperti Vlc | Semua browser dan perangkat (baik jadul maupun baru) 	|
+| Ekstensi File                            | Format video : Webm  Format Audio: Webm, Opus                                                                                                       | Format video: MP4 (MPEG-4)  Format audio: MP4a       	|
+| Perangkat dan Media Player yang didukung | - Browser  Yang support HTML5 (kalau sekarang semua browser sudah support)   - untuk  perangkat jadul perlu menginstal aplikasi tambahan seperti Vlc| Semua browser dan perangkat (baik jadul maupun baru) 	|
 | Codec yang didukung 					   | VP9, VP8, and AV1     																																 | H.265/HEVC, H.264/AVC, MPEG-4 Part 2, MPEG-2, and MPEG-1 |
 | Source Code        					   | Open Source (Terbuka)																																 | Closed Source (Proprietary)                              |
 
 
-***
+
 
 ## Kesimpulan 
 
@@ -45,7 +45,7 @@ Itulah penjelasan dari artikel saya saya. Oh ya... mimin juga mau bilang Marhaba
 
 ## Referensi
 
-https://en.wikipedia.org/wiki/MPEG-4_Part_14
-https://en.wikipedia.org/wiki/MPEG-4
-https://www.webmproject.org/about/faq/
+https://en.wikipedia.org/wiki/MPEG-4_Part_14  
+https://en.wikipedia.org/wiki/MPEG-4  
+https://www.webmproject.org/about/faq/  
 https://en.wikipedia.org/wiki/WebM

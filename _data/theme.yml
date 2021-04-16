@@ -17,7 +17,7 @@ t:
   posts: "Postingan"
   page: "Halaman"
   of: "of"
-  min_read: "Waktu baca"
+  min_read: "Menit waktu baca"
   present: "Present"
 
 # Google Fonts
@@ -30,6 +30,6 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - recipes.md
+ #- recipes.md
   - about.md
   ## - cv.md
