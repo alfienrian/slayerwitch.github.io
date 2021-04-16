@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Penipuan Saldo Gratis Bot Telegram
-permalink : /2020-11-18-Penipuan-saldo-gratis-telegram/
+permalink : /Penipuan-saldo-gratis-telegram/
 date:   2020-11-18 12:06:55 +0300
 image:  /img/images/dana.png
 tags:   [Info]
