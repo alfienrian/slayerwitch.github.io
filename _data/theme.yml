@@ -30,6 +30,6 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
- #- recipes.md
+  - posts.md
   - about.md
   ## - cv.md
