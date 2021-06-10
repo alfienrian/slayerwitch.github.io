@@ -18,7 +18,7 @@ Semakin luasnya akses internet saat ini memang membuat data pribadi kita rentan 
 
 Alamat Web : [https://haveibeenpwned.com](https://haveibeenpwned.com)
 
-![]({site.baseurl}}/img/images/HIBP.png)
+![]({{site.baseurl}}/img/images/HIBP.png)
 
 Have I Been Pwned adalah situs yang populer untuk memeriksa data pribadi yang dibuat oleh Troy Hunt. FYI situs HIBP (Have I been Pwned) sekarang sudah Open Source dan source code-nya sudah dirilis di [Github](https://github.com/HaveIBeenPwned). Untuk cara penggunaanya kamu hanya perlu memasukkan email, selain memasukkan email kamu juga bisa memasukkan password yang pernah kamu gunakan untuk mendeteksi kebocoran password.
 
@@ -26,7 +26,7 @@ Have I Been Pwned adalah situs yang populer untuk memeriksa data pribadi yang di
 
 Alamat Web: [https://periksadata.com](https://periksadata.com)
 
-![]({site.baseurl}}/img/images/periksadata.png)
+![]({{site.baseurl}}/img/images/periksadata.png)
 
 Periksadata.com adalah situs web yang dibuat oleh Peneliti Keamanan Siber Indonesia Teguh Aprianto yang datanya bebasis dari situs HaveIBeenPwned.com. Cara penggunaanya juga simple kamu hanya perlu memasukkan email kamu dan nanti kamu akan memberi informasi apakah akun kamu terdeteksi bocor atau tidak.
 
@@ -34,7 +34,7 @@ Periksadata.com adalah situs web yang dibuat oleh Peneliti Keamanan Siber Indone
 
 Alamat Web: [https://monitor.firefox.com](https://monitor.firefox.com)
 
-![]({site.baseurl}}/img/images/Firefox-monitor.png)
+![]({{site.baseurl}}/img/images/Firefox-monitor.png)
 
 Yang terakhir ini adalah situs alternatif lain untuk memeriksa data akun pribadi yang dibuat oleh Mozilla. Sama seperti yang sebelumnya kamu hanya perlu memasukkan email saja. Selain itu kamu juga bisa mendaftarkan email kamu untuk memberitahu jika akun kamu masuk kedalam kasus kebocoran data.
 

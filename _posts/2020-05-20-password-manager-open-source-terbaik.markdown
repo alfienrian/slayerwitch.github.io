@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  3 Password Manager Open Source Terbaik biar kamu tidak lupa password akun kamu
+title:  3 Password Manager Open Source Terbaik Biar Kamu Tidak Lupa Password Akun Kamu
 permalink : /password-manager-open-source-terbaik/
 date:   2020-05-20 12:06:55 +0300
 image:  /img/images/password.jpg
