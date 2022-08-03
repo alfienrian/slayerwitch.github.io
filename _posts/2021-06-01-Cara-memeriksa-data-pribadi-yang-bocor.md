@@ -40,7 +40,7 @@ Yang terakhir ini adalah situs alternatif lain untuk memeriksa data akun pribadi
 
 ### Bagaimana kalau Data Saya Bocor? Saya harus Ngapain?
 
-Jika ada akun pribadi kamu yang bocor sangat disarankan dan secepat mungkin mengganti password akun kamu, dan juga sebaiknya jangan menggunakan satu password ke semua akun karena terlalu berisiko jika akun bocor maka akun lain akan juga ikut bocor dan juga biar lebih aman bisa cek artikel saya sebelumnya tentang [Password Manajer Open Source](https://amroslayer.github.io/password-manager-open-source-terbaik) :)
+Jika ada akun pribadi kamu yang bocor sangat disarankan dan secepat mungkin mengganti password akun kamu, dan juga sebaiknya jangan menggunakan satu password ke semua akun karena terlalu berisiko jika akun bocor maka akun lain akan juga ikut bocor dan juga biar lebih aman bisa cek artikel saya sebelumnya tentang [Password Manajer Open Source]({{site.baseurl}}/password-manager-open-source-terbaik) :)
 
 Jika kamu punya kartu kredit atau akun bank digital periksa aktivitas transaksi, jika ada transaksi yang mencurigakan segera laporkan ke pihak berwajib untuk segera diselesaikan seperti mengganti pin agar tetap aman.
 Selain itu lindungi akun kamu dari pihak yang tidak bertanggung jawab (tidak resmi) dan selalu pasang fitur verifikasi 2 langkah.
