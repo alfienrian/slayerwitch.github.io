@@ -49,5 +49,6 @@ Nah itulah beberapa informasi dari saya, semoga akun kamu tidak ada bocor dan se
 
 Sekian blog dari saya semoga bermanfaat dan share jika kamu suka dengan artikel blog saya :D
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">halfin (@halfin) <a href="https://twitter.com/cussshayuk/status/1564248326618300418">https://twitter.com/cussshayuk/status/1564248326618300418</a></p>&mdash; halfin (@halfin) <a href="https://twitter.com/halfin/status/1110302988"></a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/anaik96 maxwidth=500 %}
+</div>
