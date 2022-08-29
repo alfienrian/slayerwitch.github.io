@@ -1,3 +1,2 @@
-gem 'jekyll-twitter-plugin', '~> 2.1'
-
-
+source "https://rubygems.org"
+gemspec
