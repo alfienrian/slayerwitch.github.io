@@ -48,7 +48,3 @@ Selain itu lindungi akun kamu dari pihak yang tidak bertanggung jawab (tidak res
 Nah itulah beberapa informasi dari saya, semoga akun kamu tidak ada bocor dan selalu jaga akun kamu dari orang yang tidak bertanggung jawab karena akun kamu adalah **tanggung jawab kamu yang tidak boleh dianggap remeh**
 
 Sekian blog dari saya semoga bermanfaat dan share jika kamu suka dengan artikel blog saya :D
-
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/anaik96 maxwidth=500 %}
-</div>
