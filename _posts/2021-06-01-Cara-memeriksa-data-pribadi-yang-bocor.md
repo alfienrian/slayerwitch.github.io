@@ -48,3 +48,6 @@ Selain itu lindungi akun kamu dari pihak yang tidak bertanggung jawab (tidak res
 Nah itulah beberapa informasi dari saya, semoga akun kamu tidak ada bocor dan selalu jaga akun kamu dari orang yang tidak bertanggung jawab karena akun kamu adalah **tanggung jawab kamu yang tidak boleh dianggap remeh**
 
 Sekian blog dari saya semoga bermanfaat dan share jika kamu suka dengan artikel blog saya :D
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">halfin (@halfin) <a href="https://twitter.com/cussshayuk/status/1564248326618300418">https://twitter.com/cussshayuk/status/1564248326618300418</a></p>&mdash; halfin (@halfin) <a href="https://twitter.com/halfin/status/1110302988"></a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
