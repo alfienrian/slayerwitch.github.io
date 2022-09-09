@@ -1,7 +1,7 @@
 ---
 layout: post
 title : Menjadi Nasabah Bijak, Cara Terhindar Dari Social Engineering
-permalink : /Cara-memeriksa-data-akun-pribadi-yang-bocor/
+permalink : /menjadi-nasabah-bijak-cara-terhindar-dari-social-engineering/
 date  : 2022-09-08 16:01:30 +0300
 image : /img/images/social_engineering-1-1024x617.jpg
 tags  : [Info]
