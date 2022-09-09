@@ -2,16 +2,18 @@
 layout: post
 title : Menjadi Nasabah Bijak, Cara Terhindar Dari Social Engineering
 permalink : /Cara-memeriksa-data-akun-pribadi-yang-bocor/
-date  : 2022-08-30 16:01:30 +0300
+date  : 2022-09-08 16:01:30 +0300
 image : /img/images/social_engineering-1-1024x617.jpg
 tags  : [Info]
 ---
 
 <p class="text-justify">Zaman sekarang semakin canggih dan modern, dengan perkembangan teknologi yang semakin maju. Transaksi online pun saat ini sudah menjadi kebiasaan masyarakat Indonesia. Namun dibalik segudang manfaat teknologi tersebut masih ada orang-orang yang jahat yang menyalahgunakannya untuk mengambil keuntungan dengan menipu korban alias social engineering.</p>
 
+<p class="text-justify"><em>social engineering</em> merupakan kasus yang sering terjadi di Indonesia, karena minimnya literasi digital maka tidak heran banyak korban nasabah kehilangan uang rekening karena kasus <em>social engineering</em>. Emang apa sih <em>social engineering</em> itu? kok bisa gitu gimana ceritanya? yuk langsung kita bahas.</p>
+
 ### Apa Sih Itu Social Engineering?
 
-<p class="text-justify"><em>Social engineering</em> alias soceng adalah upaya memanipulasi seseorang untuk memberikan informasi atau data pribadi yang bersifat rahasia dengan memanfaatkan kesalahan mereka.</p>
+<p class="text-justify">Setelah saya searching ke mbah Google, <em>social engineering</em> alias soceng adalah upaya memanipulasi seseorang untuk memberikan informasi atau data pribadi yang bersifat rahasia dengan memanfaatkan kesalahan mereka.</p>
 <p class="text-justify">Dalam dunia <em>cybercrime,</em> jenis penipuan ini dapat memikat pengguna untuk tidak menaruh curiga sehingga serangan manipulasi psikologis ini sangat berguna untuk mengelabui dan memengaruhi perilaku korban. Serangan seperti ini dapat terjadi secara <em>online</em>, langsung, dan melalui interaksi lainnya yang sulit untuk diduga.</p>
 
 ### Apa Saja Metode dan Jenis-Jenis Soceng?
@@ -43,6 +45,8 @@ tags  : [Info]
 
 <p class="text-center">Sumber : dok. pribadi</p>
 
+> FYI, website resmi bank BRI https://bri.co.id/ dan internet banking https://ib.bri.co.id/ib-bri/ selain dari bri.co.id sudah dipastikan itu web palsu!!
+
 ### Bagaimana Cara Terhindar dari Soceng?
 
 <img src="{{site.baseurl}}/img/images/franck-DoWZMPZ-M9s-unsplash.jpg" title="" alt="" data-align="center">
@@ -56,8 +60,7 @@ tags  : [Info]
 
 #### 1. Mengenali Ciri-Ciri Akun Palsu
 
-<p class="text-justify">Salah satu hal penting agar terhindar dari soceng yaitu mengenali dahulu tanda atau ciri-ciri soceng. Dengan mengenali ciri-cirinya kita bisa tahu agar tidak terjebak dan tertipu oleh akun palsu.</p>
-<p class="text-justify">Akun resmi mempunyai tanda <strong>centang verified</strong> yang menandakan kalau akun tersebut adalah resmi. Jadi pastikan akun mereka benar-benar ada tanda centangnya ya biar gak kena tipu ;)</p>
+<p class="text-justify">Salah satu hal penting agar terhindar dari soceng yaitu mengenali dahulu tanda atau ciri-ciri soceng. Dengan mengenali ciri-cirinya kita bisa tahu agar tidak terjebak dan tertipu oleh akun palsu. Akun resmi mempunyai tanda <strong>centang verified</strong> yang berwarna hijau atau biru yang menandakan kalau akun tersebut adalah resmi. Jadi pastikan akunnya benar-benar ada tanda centangnya ya biar gak kena tipu ;)</p>
 
 <img title="" src="{{site.baseurl}}/img/images/image914-9.jpg" alt="" data-align="center">
 
